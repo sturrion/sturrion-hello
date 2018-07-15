@@ -1,1 +1,1 @@
-web: gunicorn hello:sturrion-helo
+web: gunicorn hello.py:sturrion-helo
