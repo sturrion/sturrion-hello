@@ -1,1 +1,1 @@
-web: gunicorn hello.py:sturrion-hello
+web: gunicorn hello.py:app
